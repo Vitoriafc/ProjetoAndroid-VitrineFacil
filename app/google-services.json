@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117277712891",
+    "project_id": "vitrinefacilapp",
+    "storage_bucket": "vitrinefacilapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117277712891:android:50754b53f1c3214c42eb5e",
+        "android_client_info": {
+          "package_name": "com.example.vitrinefacil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVM1AkYamoQoqCRGt8CgNWQGs-gJLlHGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
